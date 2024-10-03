@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Case Is Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Is Passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-02T23:43:29 IST" name="Default suite" finished-at="2024-10-02T23:43:44 IST" duration-ms="14798">
+    <groups>
+    </groups>
+    <test started-at="2024-10-02T23:43:29 IST" name="Default test" finished-at="2024-10-02T23:43:44 IST" duration-ms="14798">
+      <class name="amazon_test.Amazon_CartWithoutlogin_TestCase15">
+        <test-method is-config="true" signature="amazon_launch()[pri:0, instance:amazon_test.Amazon_CartWithoutlogin_TestCase15@543588e6]" started-at="2024-10-02T23:43:29 IST" name="amazon_launch" finished-at="2024-10-02T23:43:33 IST" duration-ms="3986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_launch -->
+        <test-method signature="cartpagewithoutlogin()[pri:0, instance:amazon_test.Amazon_CartWithoutlogin_TestCase15@543588e6]" started-at="2024-10-02T23:43:33 IST" name="cartpagewithoutlogin" finished-at="2024-10-02T23:43:44 IST" duration-ms="10533" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Is Passed]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cartpagewithoutlogin -->
+      </class> <!-- amazon_test.Amazon_CartWithoutlogin_TestCase15 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
